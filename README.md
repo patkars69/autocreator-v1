@@ -81,6 +81,7 @@ autocreator/
 * [ ] Use Whisper for automatic subtitles
 * [ ] Add video queue support
 * [ ] Modular configuration system
+* [ ] Usage of tools like Docker to build unanimous images
 
 ---
 
